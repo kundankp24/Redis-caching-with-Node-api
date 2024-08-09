@@ -17,7 +17,7 @@ Before you begin, ensure you have the following installed:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/redis-express-api.git
+   git clone https://github.com/kundankp24/Redis-caching-with-Node-api.git
    cd redis-express-API
    
 2. **Install dependencies**
